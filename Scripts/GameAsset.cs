@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+ //bay sharck
 public class GameAsset : MonoBehaviour
 {
     private static GameAsset instance;
